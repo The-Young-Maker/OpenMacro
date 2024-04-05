@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="OpenMacro_Logo.svg" width="350" title="OpenMacro Logo">
+</p>
+
 This project is sponsored by [JLCPCB](https://jlcpcb.com/?from=cld). Check their website [here](https://jlcpcb.com/?from=cld).
 
 This is a ~15$ (US) DIY macropad called OpenMacro featuring 12 customizable buttons. While I won't be actively pursuing further development of this project in the immediate future, I'm sharing the files for anyone interested in exploring and enhancing it. While I can't fully endorse its functionality due to limited testing, I encourage you to experiment with it and perhaps even take it to new heights. Who knows, there might be a resurgence of interest in this project down the line! The PCB and Schematics provided are EasyEDA files (.json) and the code is Arduino code to program with Arduino IDE. Enjoy tinkering and creating!
